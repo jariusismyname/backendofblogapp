@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "lJdkK1eHoYqSPUxbitKhTy2bUMPpV+R+6mhTGBjIIE8=",
+  "Source": "SimpleBackend",
+  "BasePath": "_content/SimpleBackend",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

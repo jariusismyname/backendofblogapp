@@ -1,0 +1,12 @@
+C:\Users\Admin\Angular\AppBackend\SimpleBackend\publish\SimpleBackend.exe
+C:\Users\Admin\Angular\AppBackend\SimpleBackend\publish\appsettings.Development.json
+C:\Users\Admin\Angular\AppBackend\SimpleBackend\publish\appsettings.json
+C:\Users\Admin\Angular\AppBackend\SimpleBackend\publish\SimpleBackend.dll
+C:\Users\Admin\Angular\AppBackend\SimpleBackend\publish\SimpleBackend.deps.json
+C:\Users\Admin\Angular\AppBackend\SimpleBackend\publish\SimpleBackend.runtimeconfig.json
+C:\Users\Admin\Angular\AppBackend\SimpleBackend\publish\SimpleBackend.pdb
+C:\Users\Admin\Angular\AppBackend\SimpleBackend\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Admin\Angular\AppBackend\SimpleBackend\publish\Microsoft.OpenApi.dll
+C:\Users\Admin\Angular\AppBackend\SimpleBackend\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Angular\AppBackend\SimpleBackend\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Angular\AppBackend\SimpleBackend\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
