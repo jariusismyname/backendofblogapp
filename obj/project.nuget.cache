@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P6vg178OUQU=",
+  "dgSpecHash": "/8KYM80R8wQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Angular\\AppBackend\\SimpleBackend\\SimpleBackend.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Angular\\AppBackend\\simplebackend\\SimpleBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\9.0.0\\microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",

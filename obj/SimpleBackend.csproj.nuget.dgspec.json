@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Angular\\AppBackend\\SimpleBackend\\SimpleBackend.csproj": {}
+    "C:\\Users\\Admin\\Angular\\AppBackend\\simplebackend\\SimpleBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Angular\\AppBackend\\SimpleBackend\\SimpleBackend.csproj": {
+    "C:\\Users\\Admin\\Angular\\AppBackend\\simplebackend\\SimpleBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Angular\\AppBackend\\SimpleBackend\\SimpleBackend.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Angular\\AppBackend\\simplebackend\\SimpleBackend.csproj",
         "projectName": "SimpleBackend",
-        "projectPath": "C:\\Users\\Admin\\Angular\\AppBackend\\SimpleBackend\\SimpleBackend.csproj",
+        "projectPath": "C:\\Users\\Admin\\Angular\\AppBackend\\simplebackend\\SimpleBackend.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Angular\\AppBackend\\SimpleBackend\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Angular\\AppBackend\\simplebackend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

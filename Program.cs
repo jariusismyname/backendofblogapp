@@ -2,7 +2,6 @@ using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// ✅ Register services
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {
@@ -17,17 +16,14 @@ builder.Services.AddCors();
 
 var app = builder.Build();
 
-// ✅ Enable Swagger middleware
-if (app.Environment.IsDevelopment())
+// ✅ Always enable Swagger (even in Production)
+app.UseSwagger();
+app.UseSwaggerUI(c =>
 {
-    app.UseSwagger();
-    app.UseSwaggerUI(c =>
-    {
-        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Simple Task API v1");
-    });
-}
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Simple Task API v1");
+});
 
-// ✅ Enable CORS middleware
+// ✅ Enable CORS
 app.UseCors(policy =>
     policy.AllowAnyOrigin()
           .AllowAnyMethod()

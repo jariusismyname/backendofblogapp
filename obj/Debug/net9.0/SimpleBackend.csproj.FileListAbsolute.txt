@@ -34,3 +34,10 @@ C:\Users\Admin\Angular\AppBackend\SimpleBackend\bin\Debug\net9.0\SimpleBackend.r
 C:\Users\Admin\Angular\AppBackend\SimpleBackend\bin\Debug\net9.0\SimpleBackend.pdb
 C:\Users\Admin\Angular\AppBackend\SimpleBackend\obj\Debug\net9.0\SimpleBackend.genruntimeconfig.cache
 C:\Users\Admin\Angular\AppBackend\SimpleBackend\obj\Debug\net9.0\ref\SimpleBackend.dll
+C:\Users\Admin\Angular\AppBackend\simplebackend\bin\Debug\net9.0\publish\web.config
+C:\Users\Admin\Angular\AppBackend\simplebackend\bin\Debug\net9.0\publish\appsettings.Development.json
+C:\Users\Admin\Angular\AppBackend\simplebackend\bin\Debug\net9.0\publish\appsettings.json
+C:\Users\Admin\Angular\AppBackend\simplebackend\bin\Debug\net9.0\publish\SimpleBackend.deps.json
+C:\Users\Admin\Angular\AppBackend\simplebackend\bin\Debug\net9.0\publish\SimpleBackend.runtimeconfig.json
+C:\Users\Admin\Angular\AppBackend\simplebackend\bin\Debug\net9.0\publish\SimpleBackend.staticwebassets.endpoints.json
+C:\Users\Admin\Angular\AppBackend\simplebackend\obj\Debug\net9.0\SimpleBackend.sourcelink.json
